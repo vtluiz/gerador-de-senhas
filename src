@@ -1,0 +1,6 @@
+/projeto_gerador_senha
+│
+├── src/
+│   └── gerador_senha.py
+├── .gitignore
+└── README.md
